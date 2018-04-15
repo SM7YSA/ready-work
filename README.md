@@ -10,8 +10,11 @@ License: GNU GPLv3
 The plugin is implemented with shortcodes that renders the page content, makes API calls etc:
 
 [show_tags] the tag cloud of professions
+
 [show_map] clickable and higlighted map of sweden
+
 [show_ads] list of job listings
+
 [show_form] supposed to be a job application form (if e-mail is supplied in data from AMS)
 
 To-do list
